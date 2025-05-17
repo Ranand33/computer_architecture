@@ -1,4 +1,4 @@
-// LRU Cache
+// LRU Cache using a hash table and doubly linked list
 
 #include <stdio.h>
 #include <stdlib.h>
